@@ -1,0 +1,210 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "title": "Язык",
+      "alias": "language",
+      "isPro": false,
+      "value": "ru",
+      "options": [
+        {
+          "title": "Русский",
+          "value": "ru"
+        },
+        {
+          "title": "English",
+          "value": "en"
+        },
+        {
+          "title": "Українська",
+          "value": "ua"
+        }
+      ]
+    },
+    {
+      "title": "Показывать только оригинальные названия",
+      "alias": "showOriginalTitle",
+      "isPro": false,
+      "value": "0",
+      "options": [
+        {
+          "title": "Да",
+          "value": "1"
+        },
+        {
+          "title": "Нет",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "title": "Показывать не вышедшие сериалы в профиле",
+      "alias": "showNewShows",
+      "isPro": false,
+      "value": "1",
+      "options": [
+        {
+          "title": "Да",
+          "value": "1"
+        },
+        {
+          "title": "Нет",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "title": "Сортировка сериалов в профиле",
+      "alias": "showsOrder",
+      "isPro": false,
+      "value": "ratingTitle",
+      "options": [
+        {
+          "title": "Рейтинг, дата добавления",
+          "value": "ratingDate"
+        },
+        {
+          "title": "Рейтинг, оригинальное название",
+          "value": "ratingTitle"
+        },
+        {
+          "title": "Оригинальное название",
+          "value": "title"
+        },
+        {
+          "title": "Дата добавления",
+          "value": "date"
+        }
+      ]
+    },
+    {
+      "title": "Считать серии без дат вышедшими",
+      "alias": "airedWithoutDates",
+      "isPro": false,
+      "value": "0",
+      "options": [
+        {
+          "title": "Да",
+          "value": "1"
+        },
+        {
+          "title": "Нет",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "title": "Только завершенные сериалы попадают в \"Полностью посмотрел\"",
+      "alias": "strictFinished",
+      "isPro": false,
+      "value": "1",
+      "options": [
+        {
+          "title": "Да",
+          "value": "1"
+        },
+        {
+          "title": "Нет",
+          "value": "0"
+        }
+      ]
+    },
+    {
+      "title": "Показывать pro-статус",
+      "alias": "showPro",
+      "isPro": true,
+      "value": "all",
+      "options": [
+        {
+          "title": "Всем",
+          "value": "all"
+        },
+        {
+          "title": "Друзьям",
+          "value": "friends"
+        },
+        {
+          "title": "Никому",
+          "value": "nobody"
+        }
+      ]
+    },
+    {
+      "title": "Показывать профиль",
+      "alias": "showProfile",
+      "isPro": true,
+      "value": "all",
+      "options": [
+        {
+          "title": "Всем",
+          "value": "all"
+        },
+        {
+          "title": "Друзьям",
+          "value": "friends"
+        },
+        {
+          "title": "Никому",
+          "value": "nobody"
+        }
+      ]
+    },
+    {
+      "title": "Показывать профили в соцсетях",
+      "alias": "showSocial",
+      "isPro": true,
+      "value": "all",
+      "options": [
+        {
+          "title": "Всем",
+          "value": "all"
+        },
+        {
+          "title": "Друзьям",
+          "value": "friends"
+        },
+        {
+          "title": "Никому",
+          "value": "nobody"
+        }
+      ]
+    },
+    {
+      "title": "Показывать награды",
+      "alias": "showAchievements",
+      "isPro": true,
+      "value": "all",
+      "options": [
+        {
+          "title": "Всем",
+          "value": "all"
+        },
+        {
+          "title": "Друзьям",
+          "value": "friends"
+        },
+        {
+          "title": "Никому",
+          "value": "nobody"
+        }
+      ]
+    },
+    {
+      "title": "Показывать special эпизоды в новых сериях",
+      "alias": "showSpecials",
+      "isPro": true,
+      "value": "0",
+      "options": [
+        {
+          "title": "Да",
+          "value": "1"
+        },
+        {
+          "title": "Нет",
+          "value": "0"
+        }
+      ]
+    }
+  ],
+  "id": 1
+}

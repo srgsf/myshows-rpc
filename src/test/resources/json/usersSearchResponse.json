@@ -1,0 +1,20 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "login": "vk488443",
+      "avatar": "https://media.myshows.me/avatars/normal/6/33/633a9ba63801cb407ef5a3c41a2c52c2.jpg",
+      "wastedTime": 4324,
+      "gender": "f",
+      "isPro": false
+    },
+    {
+      "login": "Anassstasia",
+      "avatar": "https://media.myshows.me/avatars/normal/f/39/f3921c5e9141db2df1bfc9aee8807081.jpg",
+      "wastedTime": 4030,
+      "gender": "f",
+      "isPro": false
+    }
+  ],
+  "id": 1
+}

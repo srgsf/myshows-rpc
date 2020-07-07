@@ -1,0 +1,37 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "count": 0,
+      "show": {
+        "id": 15896,
+        "title": "Реальные пацаны",
+        "titleOriginal": "Реальные пацаны",
+        "status": "Returning Series",
+        "totalSeasons": 4,
+        "year": null,
+        "watching": null,
+        "voted": null,
+        "rating": null,
+        "image": "https://media.myshows.me/shows/small/9/ac/9ac2c8cd01c94efd2683372a6aabcb1d.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": null
+      },
+      "episode":
+        {
+          "id": 109271,
+          "title": "245 серия",
+          "showId": 15896,
+          "seasonNumber": 8,
+          "episodeNumber": 11,
+          "airDate": "2019-05-27T20:00:00+0000",
+          "airDateUTC": "2019-05-27T17:00:00+0000",
+          "image": "",
+          "shortName": "s08e11",
+          "commentsCount": null
+        }
+    }
+  ],
+  "id": 1
+}

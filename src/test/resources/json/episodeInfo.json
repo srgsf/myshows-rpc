@@ -1,0 +1,13 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "id": 1,
+    "watchDate": "2015-10-07T20:45:50+0300",
+    "rating": 5,
+    "isMoveAble": false,
+    "isFavorite": true,
+    "isIgnored": false,
+    "note": null
+  },
+  "id": 1
+}

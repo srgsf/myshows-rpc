@@ -1,0 +1,33 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "user": {
+      "login": "user",
+      "avatar": "https://api.myshows.me/shared/img/fe/default-user-avatar-normal.png",
+      "wastedTime": 66156,
+      "gender": null,
+      "isPro": false
+    },
+    "stats": {
+      "watchedEpisodes": 10463,
+      "remainingEpisodes": 18,
+      "totalEpisodes": 10481,
+      "watchedHours": 6614.9,
+      "remainingHours": 12.5,
+      "totalHours": 6627.4,
+      "watchedDays": 275.6,
+      "remainingDays": 0.5,
+      "totalDays": 276.1
+    },
+    "ranks": {
+      "fiendsPos": 1,
+      "fiendsTotal": 1
+    },
+    "commentsCount": 0,
+    "commentsRating": 0,
+    "social": {
+      "twitter": "twt"
+    }
+  },
+  "id": 1
+}

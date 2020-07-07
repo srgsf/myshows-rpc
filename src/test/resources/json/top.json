@@ -1,0 +1,196 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "rank": 1,
+      "voted": 225576,
+      "show": {
+        "id": 7718,
+        "title": "Шерлок",
+        "titleOriginal": "Sherlock",
+        "status": "TBD/On The Bubble",
+        "totalSeasons": 4,
+        "year": 2010,
+        "watching": 345789,
+        "voted": 195429,
+        "rating": 4.78987,
+        "image": "https://media.myshows.me/shows/small/9/49/9492ce09d3a31c32ba559f5936dac888.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 2,
+      "voted": 203894,
+      "show": {
+        "id": 11945,
+        "title": "Игра престолов",
+        "titleOriginal": "Game of Thrones",
+        "status": "Canceled/Ended",
+        "totalSeasons": 8,
+        "year": 2010,
+        "watching": 317090,
+        "voted": 171283,
+        "rating": 4.7655,
+        "image": "https://media.myshows.me/shows/small/d/d1/dd10e6a042a3766f7c3173a1397dcd0d.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 3,
+      "voted": 170417,
+      "show": {
+        "id": 2,
+        "title": "Теория большого взрыва",
+        "titleOriginal": "The Big Bang Theory",
+        "status": "Canceled/Ended",
+        "totalSeasons": 12,
+        "year": 2007,
+        "watching": 271725,
+        "voted": 145862,
+        "rating": 4.69563,
+        "image": "https://media.myshows.me/shows/small/2/a9/2a93287bc53bbfc4467095edbc9088cc.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 4,
+      "voted": 158148,
+      "show": {
+        "id": 8,
+        "title": "Остаться в живых",
+        "titleOriginal": "Lost",
+        "status": "Canceled/Ended",
+        "totalSeasons": 6,
+        "year": 2004,
+        "watching": 238206,
+        "voted": 127287,
+        "rating": 4.65933,
+        "image": "https://media.myshows.me/shows/small/7/49/749eec18eb58e856bdea8e19833d2fa1.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 5,
+      "voted": 136080,
+      "show": {
+        "id": 1,
+        "title": "Доктор Хаус",
+        "titleOriginal": "House M.D.",
+        "status": "Canceled/Ended",
+        "totalSeasons": 8,
+        "year": 2004,
+        "watching": 224243,
+        "voted": 122974,
+        "rating": 4.74822,
+        "image": "https://media.myshows.me/shows/small/0/73/073db039e64c1d43e75b9f69952b661a.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 6,
+      "voted": 138162,
+      "show": {
+        "id": 187,
+        "title": "Во все тяжкие",
+        "titleOriginal": "Breaking Bad",
+        "status": "Canceled/Ended",
+        "totalSeasons": 5,
+        "year": 2008,
+        "watching": 232142,
+        "voted": 120660,
+        "rating": 4.68232,
+        "image": "https://media.myshows.me/shows/small/0/c2/0c29613f893decccc881252ef9ad6f33.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 7,
+      "voted": 132604,
+      "show": {
+        "id": 45,
+        "title": "Сверхъестественное",
+        "titleOriginal": "Supernatural",
+        "status": "Returning Series",
+        "totalSeasons": 15,
+        "year": 2005,
+        "watching": 257870,
+        "voted": 132913,
+        "rating": 4.56965,
+        "image": "https://media.myshows.me/shows/small/9/30/93024b4a7b2dddcc206532a45459209f.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 8,
+      "voted": 117938,
+      "show": {
+        "id": 71,
+        "title": "Как я встретил вашу маму",
+        "titleOriginal": "How I Met Your Mother",
+        "status": "Canceled/Ended",
+        "totalSeasons": 9,
+        "year": 2005,
+        "watching": 178536,
+        "voted": 96525,
+        "rating": 4.68389,
+        "image": "https://media.myshows.me/shows/small/d/ea/deaf1f9b397829ea23dc90991c90bbbc.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 9,
+      "voted": 106325,
+      "show": {
+        "id": 20,
+        "title": "Друзья",
+        "titleOriginal": "Friends",
+        "status": "Canceled/Ended",
+        "totalSeasons": 10,
+        "year": 1994,
+        "watching": 177611,
+        "voted": 97076,
+        "rating": 4.83256,
+        "image": "https://media.myshows.me/shows/small/3/90/3902fe3a363a08eb23b02d0743a2461d.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    },
+    {
+      "rank": 10,
+      "voted": 122336,
+      "show": {
+        "id": 304,
+        "title": "Отбросы",
+        "titleOriginal": "Misfits",
+        "status": "Canceled/Ended",
+        "totalSeasons": 5,
+        "year": 2009,
+        "watching": 240893,
+        "voted": 126453,
+        "rating": 4.428,
+        "image": "https://media.myshows.me/shows/small/1/23/123145dc590e00e6c762a53f0b54983b.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": ""
+      }
+    }
+  ],
+  "id": 1
+}

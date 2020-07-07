@@ -1,0 +1,51 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "match": 85,
+    "filename": null,
+    "filesize": null,
+    "show": {
+      "id": 1,
+      "title": "House M.D.",
+      "ruTitle": "Доктор Хаус",
+      "status": "Canceled/Ended",
+      "country": "US",
+      "started": "Nov/16/2004",
+      "ended": "May/21/2012",
+      "year": null,
+      "kinopoiskId": null,
+      "tvrageId": 3908,
+      "imdbId": null,
+      "watching": null,
+      "voted": null,
+      "rating": null,
+      "runtime": 43,
+      "image": "https://media.myshows.me/shows/small/0/73/073db039e64c1d43e75b9f69952b661a.jpg",
+      "genres": null,
+      "images": [
+        "073db039e64c1d43e75b9f69952b661a.jpg",
+        "a7136522c87dbad1fcc10a6857869fc4.jpg",
+        "0f4fc20aa4ed5c7611f37b32d6195083.jpg",
+        "3b04ba7b76c55f877cfa3a303d7e2577.jpg",
+        "84f4aae4bbdb17ccd3168ae65ff35de4.jpg"
+      ],
+      "description": null,
+      "episodes": {
+        "1": {
+          "id": 1,
+          "showId": 1,
+          "title": "Pilot",
+          "airDate": "16.11.2004",
+          "shortName": "s01e01",
+          "tvrageLink": "http://www.tvrage.com/House/episodes/84699",
+          "image": "",
+          "seasonNumber": 1,
+          "episodeNumber": 1,
+          "productionNumber": "HOU-101",
+          "sequenceNumber": 1
+        }
+      }
+    }
+  },
+  "id": 1
+}

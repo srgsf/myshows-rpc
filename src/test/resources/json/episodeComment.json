@@ -1,0 +1,33 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "id": 12345,
+    "showId": 1,
+    "episodeId": 1,
+    "user": {
+      "login": "login",
+      "avatar": "https://api.myshows.me/shared/img/fe/default-user-avatar-normal.png",
+      "wastedTime": 6615,
+      "gender": null,
+      "isPro": false
+    },
+    "comment": "test comment",
+    "image": null,
+    "parentId": null,
+    "createdAt": "2020-07-03T17:39:30+0300",
+    "statusId": 1,
+    "isNew": false,
+    "isMyPlus": false,
+    "isMyMinus": false,
+    "isMyComment": true,
+    "rating": 0,
+    "isBad": false,
+    "isEditable": true,
+    "editableTill": "2020-07-03T17:54:30+0300",
+    "isDeleted": false,
+    "language": "en",
+    "episode": null,
+    "show": null
+  },
+  "id": 1
+}

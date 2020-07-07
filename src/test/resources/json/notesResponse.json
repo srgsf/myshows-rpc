@@ -1,0 +1,38 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "id": 137458,
+      "text": "testNote",
+      "createdAt": "2020-07-01T14:06:35+0300",
+      "show": {
+        "id": 1,
+        "title": "Доктор Хаус",
+        "titleOriginal": "House M.D.",
+        "status": "Canceled/Ended",
+        "totalSeasons": 8,
+        "year": null,
+        "watching": null,
+        "voted": null,
+        "rating": null,
+        "image": "https://media.myshows.me/shows/small/0/73/073db039e64c1d43e75b9f69952b661a.jpg",
+        "onlineCount": null,
+        "promoUrl": null,
+        "description": null
+      },
+      "episode": {
+        "id": 1,
+        "title": "Pilot",
+        "showId": 1,
+        "seasonNumber": 1,
+        "episodeNumber": 1,
+        "airDate": "2004-11-17T05:00:00+0000",
+        "airDateUTC": "2004-11-17T02:00:00+0000",
+        "image": "",
+        "shortName": "s01e01",
+        "commentsCount": null
+      }
+    }
+  ],
+  "id": 1
+}

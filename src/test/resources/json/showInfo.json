@@ -1,0 +1,11 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "id": 1,
+    "watchStatus": "finished",
+    "rating": 4,
+    "isFavorite": false,
+    "note": null
+  },
+  "id": 1
+}

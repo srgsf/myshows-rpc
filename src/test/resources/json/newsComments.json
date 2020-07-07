@@ -1,0 +1,48 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "id": 663,
+      "newsId": 174,
+      "user": {
+        "login": "login",
+        "avatar": "https://media.myshows.me/avatars/normal/5/1f/51fb5182e3aa533d395a137e1bae1397.jpg",
+        "wastedTime": 1486,
+        "gender": "f",
+        "isPro": false
+      },
+      "comment": "text",
+      "image": null,
+      "parentId": null,
+      "createdAt": "2120-07-03T06:33:05+0300",
+      "statusId": 1,
+      "isNew": false,
+      "isMyPlus": false,
+      "isMyMinus": false,
+      "isMyComment": false,
+      "rating": 6,
+      "isBad": false,
+      "isEditable": false,
+      "editableTill": null,
+      "isDeleted": false,
+      "language": "ru",
+      "news": {
+        "id": 1274,
+        "title": "Что смотреть на следующей неделе? Новые сезоны сериалов 6 — 12 июля",
+        "alias": "chto-smotret-na-sleduyushhey-nedele-prodolzheniya-serialov-6-12-july",
+        "foreword": "Сразу два аниме, драмеди с Дэвидом Теннантом в главной роли и финал турецкого фэнтези-боевика о защитнике Стамбула.",
+        "publishedAt": "2020-07-03T06:00:00+0300",
+        "image": "https://media.myshows.me/news/normal/e/03/e03b6bbffd8b12b68b0a4a4de84afa0d.jpg",
+        "author": {
+          "href": "/Toshyak",
+          "anchor": "Toshyak",
+          "targetBlank": false
+        },
+        "video": null,
+        "commentsTotal": 2,
+        "commentsNew": 0
+      }
+    }
+  ],
+  "id": 1
+}

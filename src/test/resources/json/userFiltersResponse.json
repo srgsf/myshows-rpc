@@ -1,0 +1,150 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "title": "Пол",
+      "alias": "gender",
+      "values": [
+        {
+          "title": "Женщина",
+          "alias": "f",
+          "count": 10,
+          "isActive": true
+        },
+        {
+          "title": "Мужчина",
+          "alias": "m",
+          "count": 5,
+          "isActive": false
+        },
+        {
+          "title": "Не определился",
+          "alias": "x",
+          "count": 3,
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "title": "Потрачено",
+      "alias": "wasted",
+      "values": [
+        {
+          "title": "Не смотрит",
+          "alias": 1,
+          "count": 5,
+          "isActive": false
+        },
+        {
+          "title": "Больше часа",
+          "alias": 2,
+          "count": 6,
+          "isActive": false
+        },
+        {
+          "title": "Больше суток",
+          "alias": 3,
+          "count": 10,
+          "isActive": false
+        },
+        {
+          "title": "Больше недели",
+          "alias": 4,
+          "count": 20,
+          "isActive": false
+        },
+        {
+          "title": "Больше месяца",
+          "alias": 5,
+          "count": 50,
+          "isActive": false
+        },
+        {
+          "title": "Больше года",
+          "alias": 6,
+          "count": 2,
+          "isActive": false
+        }
+      ]
+    },
+    {
+      "title": "Год регистрации",
+      "alias": "year",
+      "values": [
+        {
+          "title": 2009,
+          "alias": 2009,
+          "count": 393,
+          "isActive": false
+        },
+        {
+          "title": 2010,
+          "alias": 2010,
+          "count": 10462,
+          "isActive": false
+        },
+        {
+          "title": 2011,
+          "alias": 2011,
+          "count": 11720,
+          "isActive": false
+        },
+        {
+          "title": 2012,
+          "alias": 2012,
+          "count": 28913,
+          "isActive": false
+        },
+        {
+          "title": 2013,
+          "alias": 2013,
+          "count": 36479,
+          "isActive": false
+        },
+        {
+          "title": 2014,
+          "alias": 2014,
+          "count": 45446,
+          "isActive": false
+        },
+        {
+          "title": 2015,
+          "alias": 2015,
+          "count": 29685,
+          "isActive": false
+        },
+        {
+          "title": 2016,
+          "alias": 2016,
+          "count": 20207,
+          "isActive": false
+        },
+        {
+          "title": 2017,
+          "alias": 2017,
+          "count": 19140,
+          "isActive": false
+        },
+        {
+          "title": 2018,
+          "alias": 2018,
+          "count": 14951,
+          "isActive": false
+        },
+        {
+          "title": 2019,
+          "alias": 2019,
+          "count": 9229,
+          "isActive": false
+        },
+        {
+          "title": 2020,
+          "alias": 2020,
+          "count": 100,
+          "isActive": false
+        }
+      ]
+    }
+  ],
+  "id": 1
+}

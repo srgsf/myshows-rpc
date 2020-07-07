@@ -1,0 +1,24 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "title": "Фантаст II",
+    "description": "Смотрит 20 Sci-Fi сериалов",
+    "image": "https://api.myshows.me/shared/img/fe/rewards/fantast_2lvl.png",
+    "alias": "sci-fi",
+    "key": "key",
+    "achievedAt": "2020-06-02T00:00:00+0300",
+    "friends": [
+      {
+        "user": {
+          "login": "vk",
+          "avatar": "https://media.myshows.me/avatars/normal/6/33/633a9ba63801cb407ef5a3c41a2c52c2.jpg",
+          "wastedTime": 4325,
+          "gender": "f",
+          "isPro": false
+        },
+        "achievedAt": "2020-09-12T00:00:00+0300"
+      }
+    ]
+  },
+  "id": 1
+}

@@ -1,0 +1,594 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "id": 131,
+      "title": "\t"
+    },
+    {
+      "id": 4,
+      "title": "Боевик"
+    },
+    {
+      "id": 3,
+      "title": "Мультфильмы для взрослых"
+    },
+    {
+      "id": 42,
+      "title": "Для взрослых"
+    },
+    {
+      "id": 153,
+      "title": "Adult/Porn\t"
+    },
+    {
+      "id": 5,
+      "title": "Приключения"
+    },
+    {
+      "id": 122,
+      "title": "Adventure\t"
+    },
+    {
+      "id": 104,
+      "title": "Животные"
+    },
+    {
+      "id": 116,
+      "title": "Animation"
+    },
+    {
+      "id": 23,
+      "title": "Мультфильмы"
+    },
+    {
+      "id": 139,
+      "title": "Animation General\t"
+    },
+    {
+      "id": 29,
+      "title": "Аниме"
+    },
+    {
+      "id": 150,
+      "title": "Anime\t"
+    },
+    {
+      "id": 41,
+      "title": "Антология"
+    },
+    {
+      "id": 75,
+      "title": "Искусство"
+    },
+    {
+      "id": 126,
+      "title": "Arts & Crafts\t"
+    },
+    {
+      "id": 141,
+      "title": "Arts & Crafts\t\t"
+    },
+    {
+      "id": 146,
+      "title": "Аудиосериал"
+    },
+    {
+      "id": 40,
+      "title": "Автомобильный"
+    },
+    {
+      "id": 98,
+      "title": "Автомобили/Транспорт"
+    },
+    {
+      "id": 90,
+      "title": "Покупки"
+    },
+    {
+      "id": 160,
+      "title": "Celebreties"
+    },
+    {
+      "id": 37,
+      "title": "Знаменитости"
+    },
+    {
+      "id": 155,
+      "title": "Celebrities\t"
+    },
+    {
+      "id": 151,
+      "title": "Celebrities\t\t"
+    },
+    {
+      "id": 172,
+      "title": "Celebrity"
+    },
+    {
+      "id": 18,
+      "title": "Детский"
+    },
+    {
+      "id": 46,
+      "title": "Мультфильмы для детей"
+    },
+    {
+      "id": 76,
+      "title": "Кино/Театр"
+    },
+    {
+      "id": 127,
+      "title": "Cinema/Theatre\t"
+    },
+    {
+      "id": 1,
+      "title": "Комедия"
+    },
+    {
+      "id": 175,
+      "title": "Comedy\t"
+    },
+    {
+      "id": 140,
+      "title": "Comedy\t\t"
+    },
+    {
+      "id": 107,
+      "title": "Comedy; Children"
+    },
+    {
+      "id": 96,
+      "title": "Соревнования"
+    },
+    {
+      "id": 174,
+      "title": "Competition\t"
+    },
+    {
+      "id": 176,
+      "title": "Competition\t\t"
+    },
+    {
+      "id": 56,
+      "title": "Кулинарный/Еда"
+    },
+    {
+      "id": 136,
+      "title": "Cooking/Food\t"
+    },
+    {
+      "id": 28,
+      "title": "Криминал"
+    },
+    {
+      "id": 120,
+      "title": "Crime\t"
+    },
+    {
+      "id": 55,
+      "title": "Текущие события"
+    },
+    {
+      "id": 165,
+      "title": "Current Events\t"
+    },
+    {
+      "id": 147,
+      "title": "Current Events\t\t"
+    },
+    {
+      "id": 38,
+      "title": "Танцевальный"
+    },
+    {
+      "id": 92,
+      "title": "Дебаты"
+    },
+    {
+      "id": 69,
+      "title": "Дизайн"
+    },
+    {
+      "id": 33,
+      "title": "Научный"
+    },
+    {
+      "id": 161,
+      "title": "Discovery/Science\t"
+    },
+    {
+      "id": 93,
+      "title": "Документальный"
+    },
+    {
+      "id": 157,
+      "title": "Documentary\t"
+    },
+    {
+      "id": 143,
+      "title": "Documentary\t\t\t  \t"
+    },
+    {
+      "id": 108,
+      "title": "Documentary; Animals/Pets; Discovery/Science"
+    },
+    {
+      "id": 6,
+      "title": "Драма"
+    },
+    {
+      "id": 159,
+      "title": "Education"
+    },
+    {
+      "id": 43,
+      "title": "Образовательный"
+    },
+    {
+      "id": 156,
+      "title": "Educational\t"
+    },
+    {
+      "id": 123,
+      "title": "Educational\t\t"
+    },
+    {
+      "id": 10,
+      "title": "Семейный"
+    },
+    {
+      "id": 12,
+      "title": "Фэнтези"
+    },
+    {
+      "id": 57,
+      "title": "Мода/Make-up"
+    },
+    {
+      "id": 170,
+      "title": "Fashion/Make-up\t\t\t"
+    },
+    {
+      "id": 97,
+      "title": "Финансовый"
+    },
+    {
+      "id": 59,
+      "title": "Финансовый/Бизнес"
+    },
+    {
+      "id": 77,
+      "title": "Фитнес"
+    },
+    {
+      "id": 113,
+      "title": "Food"
+    },
+    {
+      "id": 178,
+      "title": "Game"
+    },
+    {
+      "id": 82,
+      "title": "Пейзажи"
+    },
+    {
+      "id": 45,
+      "title": "Исторический"
+    },
+    {
+      "id": 182,
+      "title": "History\t"
+    },
+    {
+      "id": 106,
+      "title": "Праздничный"
+    },
+    {
+      "id": 30,
+      "title": "Ужасы"
+    },
+    {
+      "id": 168,
+      "title": "Horror/Supernatural\t"
+    },
+    {
+      "id": 152,
+      "title": "Horror/Supernatural\t\t"
+    },
+    {
+      "id": 72,
+      "title": "Housing/Строительство"
+    },
+    {
+      "id": 63,
+      "title": "Сделай сам"
+    },
+    {
+      "id": 177,
+      "title": "Юмор"
+    },
+    {
+      "id": 180,
+      "title": "Humor\t\t\t"
+    },
+    {
+      "id": 158,
+      "title": "Improv"
+    },
+    {
+      "id": 54,
+      "title": "Интервью"
+    },
+    {
+      "id": 163,
+      "title": "Interview\t"
+    },
+    {
+      "id": 148,
+      "title": "Interview\t\t"
+    },
+    {
+      "id": 114,
+      "title": "Юридический"
+    },
+    {
+      "id": 34,
+      "title": "Стиль жизни"
+    },
+    {
+      "id": 94,
+      "title": "Литературный"
+    },
+    {
+      "id": 181,
+      "title": "Literature\t"
+    },
+    {
+      "id": 167,
+      "title": "Literature\t\t\t"
+    },
+    {
+      "id": 117,
+      "title": "Machinima"
+    },
+    {
+      "id": 35,
+      "title": "Медицинский"
+    },
+    {
+      "id": 173,
+      "title": "Medical\t\t"
+    },
+    {
+      "id": 27,
+      "title": "Военный"
+    },
+    {
+      "id": 32,
+      "title": "Музыкальный"
+    },
+    {
+      "id": 164,
+      "title": "Music\t\t"
+    },
+    {
+      "id": 25,
+      "title": "Детектив"
+    },
+    {
+      "id": 115,
+      "title": "Nature"
+    },
+    {
+      "id": 103,
+      "title": "Дикая природа"
+    },
+    {
+      "id": 99,
+      "title": "Домашние животные"
+    },
+    {
+      "id": 70,
+      "title": "В мире животных"
+    },
+    {
+      "id": 36,
+      "title": "Политика"
+    },
+    {
+      "id": 166,
+      "title": "Politics\t"
+    },
+    {
+      "id": 162,
+      "title": "Politics\t\t\t"
+    },
+    {
+      "id": 100,
+      "title": "Эротика"
+    },
+    {
+      "id": 8,
+      "title": "Кукольный"
+    },
+    {
+      "id": 52,
+      "title": "Религия"
+    },
+    {
+      "id": 111,
+      "title": "Romance/Datin"
+    },
+    {
+      "id": 7,
+      "title": "Романтика"
+    },
+    {
+      "id": 110,
+      "title": "Romance/Dating; Soaps"
+    },
+    {
+      "id": 118,
+      "title": "Science-Fiction"
+    },
+    {
+      "id": 9,
+      "title": "Фантастика"
+    },
+    {
+      "id": 129,
+      "title": "Sci-Fi\t\t\t"
+    },
+    {
+      "id": 134,
+      "title": "Sci-Fi\t\t\t\t"
+    },
+    {
+      "id": 91,
+      "title": "Торговля"
+    },
+    {
+      "id": 102,
+      "title": "Отношения"
+    },
+    {
+      "id": 130,
+      "title": "Sex\t \t"
+    },
+    {
+      "id": 48,
+      "title": "Sketch/Импровизация"
+    },
+    {
+      "id": 128,
+      "title": "Sketch/Improv\t"
+    },
+    {
+      "id": 142,
+      "title": "Sketch/Improv\t\t"
+    },
+    {
+      "id": 31,
+      "title": "Мыльные оперы"
+    },
+    {
+      "id": 44,
+      "title": "Спортивный"
+    },
+    {
+      "id": 144,
+      "title": "Sports\t"
+    },
+    {
+      "id": 105,
+      "title": "Шпионский"
+    },
+    {
+      "id": 47,
+      "title": "Stop-Motion"
+    },
+    {
+      "id": 49,
+      "title": "Супергерои"
+    },
+    {
+      "id": 124,
+      "title": "Super Heroes\t"
+    },
+    {
+      "id": 125,
+      "title": "Super Heroes\t\t\t"
+    },
+    {
+      "id": 112,
+      "title": "Сверхъестественное"
+    },
+    {
+      "id": 154,
+      "title": "Supernatural\t"
+    },
+    {
+      "id": 11,
+      "title": "Таланты"
+    },
+    {
+      "id": 137,
+      "title": "Talent\t"
+    },
+    {
+      "id": 138,
+      "title": "Talent\t \t\t"
+    },
+    {
+      "id": 133,
+      "title": "Talent\t\t"
+    },
+    {
+      "id": 135,
+      "title": "Talent\t\t\t\t"
+    },
+    {
+      "id": 145,
+      "title": "tech/gaming"
+    },
+    {
+      "id": 51,
+      "title": "Tech/Игровой"
+    },
+    {
+      "id": 179,
+      "title": "Tech/Gaming\t\t"
+    },
+    {
+      "id": 171,
+      "title": "Tech/Gaming\t\t\t"
+    },
+    {
+      "id": 2,
+      "title": "Молодежный"
+    },
+    {
+      "id": 149,
+      "title": "Teens\t"
+    },
+    {
+      "id": 132,
+      "title": "Teens\t\t"
+    },
+    {
+      "id": 169,
+      "title": "Teens\t\t\t"
+    },
+    {
+      "id": 26,
+      "title": "Триллер"
+    },
+    {
+      "id": 109,
+      "title": "Thriller; Mystery"
+    },
+    {
+      "id": 50,
+      "title": "Путешествия"
+    },
+    {
+      "id": 119,
+      "title": "Variety"
+    },
+    {
+      "id": 101,
+      "title": "Погода"
+    },
+    {
+      "id": 39,
+      "title": "Вестерн"
+    },
+    {
+      "id": 95,
+      "title": "Дикая природа"
+    }
+  ],
+  "id": 1
+}

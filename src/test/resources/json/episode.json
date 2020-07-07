@@ -1,0 +1,42 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "id": 1384290,
+    "title": "Chase",
+    "showId": 1,
+    "seasonNumber": 8,
+    "episodeNumber": 12,
+    "airDate": "2012-02-14T04:00:00+0000",
+    "airDateUTC": "2012-02-14T01:00:00+0000",
+    "productionNumber": "",
+    "sequenceNumber": 166,
+    "externalUrl": "http://www.tvrage.com/House/episodes/1065143322",
+    "image": "",
+    "shortName": "s08e12",
+    "totalWatched": 120329,
+    "totalWatchedPercent": 53.66,
+    "rating": {
+      "showId": 1,
+      "episodeId": 1384290,
+      "r1": 14,
+      "r2": 37,
+      "r3": 206,
+      "r4": 675,
+      "r5": 3193,
+      "votes": 4125,
+      "rating": 4.696
+    },
+    "commentsCount": 27,
+    "onlineLinks": [
+      {
+        "title": "КиноПоиск",
+        "description": "Смотрите по&nbsp;подписке без&nbsp;перерыва на&nbsp;рекламу.",
+        "source": "kinopoisk",
+        "url": "https://www.kinopoisk.ru/film/178710/watch/8/12/?utm_source=myshows&utm_medium=paid_performance&utm_campaign=house_md&utm_content=button_page_orange_30_free&utm_term=all&source=kinopoisk_paid_performance_myshows_house_md_button_page_orange_30_free_all"
+      }
+    ],
+    "onlineLinkExclusive": null,
+    "onlineEmbed": null
+  },
+  "id": 1
+}

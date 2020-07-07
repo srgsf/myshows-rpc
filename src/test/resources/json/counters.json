@@ -1,0 +1,9 @@
+{
+  "jsonrpc": "2.0",
+  "result": {
+    "unwatchedEpisodes": 10,
+    "newAchievements": 1,
+    "newCommentReplies": 2
+  },
+  "id": 1
+}

@@ -1,0 +1,25 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "count": 0,
+      "news": {
+        "id": 0,
+        "title": "string",
+        "alias": "string",
+        "foreword": "string",
+        "publishedAt": "2019-05-27T20:00:00+0000",
+        "image": "string",
+        "author": {
+          "href": "string",
+          "anchor": "string",
+          "targetBlank": true
+        },
+        "video": "string",
+        "commentsTotal": 0,
+        "commentsNew": 0
+      }
+    }
+  ],
+  "id": 1
+}

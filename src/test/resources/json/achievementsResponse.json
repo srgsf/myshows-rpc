@@ -1,0 +1,46 @@
+{
+  "jsonrpc": "2.0",
+  "result": [
+    {
+      "title": "Фантаст II",
+      "description": "Смотрит 20 Sci-Fi сериалов",
+      "image": "https://api.myshows.me/shared/img/fe/rewards/fantast_2lvl.png",
+      "alias": "sci-fi",
+      "key": "k1",
+      "achievedAt": "2018-06-02T00:00:00+0300"
+    },
+    {
+      "title": "Сериаломаньяк II",
+      "description": "Потратили времени на сериалы больше среднего в четыре раза",
+      "image": "https://api.myshows.me/shared/img/fe/rewards/serialmaniac2level.png",
+      "alias": "maniac",
+      "key": "k2",
+      "achievedAt": "2018-12-29T00:00:00+0300"
+    },
+    {
+      "title": "Ни дня без серии (7)",
+      "description": "Смотрел сериалы 7 дней подряд",
+      "image": "https://api.myshows.me/shared/img/fe/rewards/7days.png",
+      "alias": "strike",
+      "key": "k3",
+      "achievedAt": "2018-10-12T00:00:00+0300"
+    },
+    {
+      "title": "New School",
+      "description": "Смотрит 10 сериалов <b>текущего</b> года",
+      "image": "https://api.myshows.me/shared/img/fe/rewards/newschool.png",
+      "alias": "new-school",
+      "key": "k4",
+      "achievedAt": "2018-12-12T00:00:00+0300"
+    },
+    {
+      "title": "Сериаломан II",
+      "description": "Оценил 100 сериалов",
+      "image": "https://api.myshows.me/shared/img/fe/rewards/serialoman100.png",
+      "alias": "serial",
+      "key": "k5",
+      "achievedAt": "2018-06-19T00:00:00+0300"
+    }
+  ],
+  "id": 1
+}
