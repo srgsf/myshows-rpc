@@ -25,7 +25,7 @@ Pull requests are welcome.
 Add the following dependency to your Gradle project:
 
 ```groovy
-implementation 'com.github.srgsf:myshows-rpc:0.1'
+implementation 'com.github.srgsf:myshows-rpc:0.1.0'
 ```
 
 Or for Maven:
@@ -34,7 +34,7 @@ Or for Maven:
 <dependency>
   <groupId>com.github.srgsf</groupId>
   <artifactId>myshows-rpc</artifactId>
-  <version>0.1</version>
+  <version>0.1.0</version>
 </dependency>
 ```
 
