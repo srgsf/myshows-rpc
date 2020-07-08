@@ -1,6 +1,7 @@
 # myshows-rpc
 ![Tests](https://github.com/srgsf/myshows-rpc/workflows/Tests/badge.svg?branch=master&event=push)
 ![License](https://img.shields.io/github/license/srgsf/myshows-rpc)
+![Maven](https://img.shields.io/maven-central/v/com.github.srgsf/myshows-rpc)
 
 A Java wrapper around https://myshows.me [Json-Rpc API v2.0](https://api.myshows.me/shared/doc/) using [Retrofit 2](https://square.github.io/retrofit/) and [Moshi](https://github.com/square/moshi#readme) for json serialization.
 
